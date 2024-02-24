@@ -4,7 +4,7 @@
     "modules": [
         {
             "id": "with-john-building-nodes",
-            "version": "0.0.4",
+            "version": "1.0.4",
             "description": "Test",
             "updated_at": "2024-02-24T12:04:48.684Z",
             "url": "https://flows.nodered.org/node/@lexsus/node-red-contrib-hdlbus"
