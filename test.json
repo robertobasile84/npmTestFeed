@@ -1,1 +1,13 @@
-{"A":"B"}
+{
+    "name": "EngUsa NodeRED catalogue",
+    "updated_at": "2024-02-24T12:11:05.206Z",
+    "modules": [
+        {
+            "id": "with-john-building-nodes",
+            "version": "0.0.4",
+            "description": "Test",
+            "updated_at": "2024-02-24T12:04:48.684Z",
+            "url": "https://flows.nodered.org/node/@lexsus/node-red-contrib-hdlbus"
+        }
+    ]
+}
